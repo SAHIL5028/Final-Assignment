@@ -15,15 +15,13 @@ Final Assignment
    "cell_type": "markdown",
    "metadata": {},
    "source": [
-    "**Navas Sherif I**<br>\n",
-    "Associate Software Developer"
+    
    ]
   },
   {
    "cell_type": "markdown",
    "metadata": {},
    "source": [
-    "*I am interested in data science because I love to work with data*"
    ]
   },
   {
